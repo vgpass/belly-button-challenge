@@ -12,6 +12,8 @@ This challenge required the building of an interactive dashboard that would popu
 * Scatterplot of the microbial samples collected.
 * Indicator gauge that illustrates the washing frequency for the selected test subject.
 
+Final results are hosted on GitHub Pagses: https://vgpass.github.io/belly-button-challenge/
+
 # **Files**
 
 In the repository are the completed challenge files.
@@ -43,6 +45,10 @@ What took me the longest here was trying to get the colors to vary. I wasn't hap
 I got the basics of the gauge pretty quickly and found some different ways to change the output. I still wasn't able to figure out how to get the ticklabels to show up inside the indicator axis, or how to create the needle indicator. I like the final output, but it isn't exacly like the one in the Canvas instructions. I may play around with this more to see what I can figure out.
 
 ![Washing image](output/washing.png)
+
+Finally, the dashboard was hosted on GitHub Pages
+
+https://vgpass.github.io/belly-button-challenge/
 
 
 # **Comments and Thoughts**
