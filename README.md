@@ -3,7 +3,7 @@
 
 ## Vincent Passanisi
 
-## Due January 30, 2023, Submitted February 6, 2023
+## Due January 30, 2023, Submitted February 5, 2023
 
 # **Introduction**
 This challenge required the building of an interactive dashboard that would populate a number of graphs illustrating the diversity of microorganisms residing in the belly button of the selected test subject. The test subject is chosen using a dropdown menu of samples in the dataset. Once the subject is chosen, the metadata for that subject is used to populate a panel-box with the demographic information for that subject. There are three graphs on the dashboard, as follows:
